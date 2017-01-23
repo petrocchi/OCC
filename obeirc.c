@@ -1,6 +1,7 @@
 /*
    obeirc.c by Luca Petrocchi petrocchi@myoffset.me 28/10/2006 -> 31/05/2007 -> 19/01/2017
    Obufuscate C code...
+   ATTENTION, this code is dangerous!
    */
 
 #include <stdio.h>
